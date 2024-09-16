@@ -1,4 +1,4 @@
-package com.example.personcrud.model
+package com.example.project_3.model
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue
